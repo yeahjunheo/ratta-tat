@@ -1,0 +1,15 @@
+# Extracted APKs from Supernote Nomad (copyrighted by Ratta)
+screencast.apk
+background.apk
+
+# Decompiled APK sources (copyrighted by Ratta)
+screencast_src/
+background_src/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Claude Code
+.claude/
